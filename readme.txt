@@ -1,6 +1,6 @@
 === WordIdentica ===
 Tags: Identi.ca, integration, post, digest, notify, integrate, archive, microblogging
-Contributors: bluefur
+Contributors: bluefur, speedboxer
 Requires at least: 2.1
 Tested up to: 2.6
 Stable tag: trunk
